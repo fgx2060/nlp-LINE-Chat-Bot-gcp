@@ -62,6 +62,7 @@ nlp-linebot-gcp/
 └─ README.md                 # 專案說明
 ```
 - 備註 : 資料及漢模型檔案太大就沒有放上來了
+## 影片https://youtu.be/rKzG02KMkTE
 
 
 
