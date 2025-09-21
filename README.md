@@ -21,7 +21,8 @@
 - **互動測試**：支援 CLI 測試，輸入訊息即可獲得模型回覆。
 - **LINE Bot 整合**：透過 `token_and_secret.py` 與 Flask Webhook，將模型部署到 GCP 並連接 LINE Bot。
 
-## 建構流程參考 :  類神經網路與深度學習-自建 NLP 聊天機器人（LINE + GCP 部署）.pdf
+## 建構流程參考 :  
+ - 類神經網路與深度學習-自建 NLP 聊天機器人（LINE + GCP 部署）.pdf
 ---
 ## 📂 專案結構
 ```
