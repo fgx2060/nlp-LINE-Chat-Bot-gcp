@@ -1,3 +1,4 @@
-secret = "19099c57fbf08f73b927a478d8094722"
+secret = ""
 
-token = "KGbX3Tk6JBOrhIj5RzV9km+eCkgJwX7YOVg5uIV77OrLKmlktVOpG+LdMZvq2xz7sWNo4iSFioPFjGWbSGOXYODclALutYYIkD8FixBI6TOZ4n4zfgpB+5Cu5+lG4kOnaWh+9KDpkVE4AW+YhIyHagdB04t89/1O/w1cDnyilFU="
+
+token = ""
